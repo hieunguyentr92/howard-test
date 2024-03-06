@@ -1,2 +1,2 @@
 # howard-test
-test cname
+test subdomain takeover
